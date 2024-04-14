@@ -2,6 +2,10 @@
 
 Hey there! This is my IMDb clone created with React, which utilizes an API to fetch movie data. You can explore the top 20, popular, top-rated, and upcoming movies. Additionally, you can view detailed information about each movie by clicking on it.
 
+<div style="padding: 10px;">
+    <img src="/imdb-clone.png" alt="imdb" style="width: 80%; padding: 10px;">
+</div>
+
 ## Overview
 
 MyImdb-CLONE provides a user-friendly interface for browsing movie data fetched from an API. It's a great way to explore and discover new movies based on various categories.
